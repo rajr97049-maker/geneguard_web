@@ -1,0 +1,6 @@
+flask
+gunicorn
+pytesseract
+pillow
+pymupdf
+reportlab
